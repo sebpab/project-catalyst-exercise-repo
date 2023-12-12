@@ -1,4 +1,6 @@
-## Project Catalyst Exercise repo
+# Project Catalyst Exercise repo
+
+## As proposer
 
 1. Fork this project
 2. Go to the `proposals` folder
@@ -13,8 +15,13 @@
 9. Once you've finished your exercise, it's time to Commit it: click on `Commit changes` button.
 10. Finally, to merge your exercise with the main project, make a pull request.
 
-And that's it. Congratulations. Now, wait for the Reviewer to check your exercise.  
+And that's it. Congratulations. Now, wait for the instructor to check your exercise.  
 
  
-### Watch out: don't forget to update your fork by syncing it with the main project (click on `Sync fork`)
+***Watch out: don't forget to update your fork by syncing it with the main project (click on `Sync fork`)***
+
+
+## As Reviewer
+
+
  
